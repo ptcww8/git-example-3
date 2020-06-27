@@ -1,2 +1,2 @@
 # git-example-3
-<b style="color:red;"> My name is Titus </b>
+<div style="color:red;font-weight:bold;"> My name is Titus </div>
